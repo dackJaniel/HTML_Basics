@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+}
+
+body {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.box{
+    background-color: #eee;
+    padding: 8px 16px;
+    border-radius: 4px;
+}
+
+.ue{
+    font-size: xx-large;
+}
